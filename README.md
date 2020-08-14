@@ -1,6 +1,6 @@
 ### Hi there, I'm Sondre! 👋
 
-I'm currently doing my graduate degree in algorithms at the University of Bergen. I have  a passion for safe and reliable software, open source and programming. I'm also a firm believer in applying the KISS principle and the worse is better philosophy to my projects. I enjoy and use strongly typed languages, Linux and mechanical keyboards.
+I'm currently doing my masters degree in algorithms at the University of Bergen. I have  a passion for safe and reliable software, open source and programming. I'm also a firm believer in applying the KISS principle and the worse is better philosophy to my projects. I enjoy and use strongly typed languages, Linux and mechanical keyboards.
 
 #### You can find me on...
 
