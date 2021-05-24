@@ -6,3 +6,5 @@ I'm currently doing my masters degree in informatics - algorithms specifically -
 
 - [The web](https://www.eons.io)
 - [Twitter](https://twitter.com/sondr3)
+
+And most everywhere else under the nickname `sondr3`.
