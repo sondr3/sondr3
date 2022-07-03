@@ -1,6 +1,6 @@
 ### Hi there, I'm Sondre! 👋
 
-I'm currently doing my masters degree in informatics - algorithms specifically - at the University of Bergen. I have a passion for side projects, open source and baking bread. I'm also a firm believer in applying the KISS principle and the worse is better philosophy to my projects. I enjoy and use strongly typed languages, Linux and mechanical keyboards.
+Senior consultant working for [Sonat Consulting](https://sonat.no/) with a masters degree in algorithms from the University of Bergen. I have a passion for side projects, open source and baking bread. I'm also a firm believer in applying the KISS principle and the worse is better philosophy to my projects. I enjoy and use strongly typed languages, Linux and mechanical keyboards.
 
 #### You can find me on...
 
