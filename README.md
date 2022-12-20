@@ -5,6 +5,6 @@ Senior consultant working for [Sonat Consulting](https://sonat.no/) with a maste
 #### You can find me on...
 
 - [The web](https://www.eons.io)
-- [Twitter](https://twitter.com/sondr3)
+- <a rel="me" href="https://fosstodon.org/@sondre">Mastodon</a>
 
 And most everywhere else under the nickname `sondr3`.
