@@ -1,6 +1,6 @@
 ### Hi there, I'm Sondre! 👋
 
-Senior developer working for [Aritma](https://www.aritma.com/) with a masters degree in algorithms from the University of Bergen. I have a passion for side projects, running and food. I'm also a firm believer in applying the KISS principle and the worse is better philosophy to my projects. I enjoy and use strongly typed languages, Linux and mechanical keyboards.
+I am working at [Aritma](https://www.aritma.com/) as a senior software engineer with a masters degree in algorithms from the University of Bergen. I struggle with having too many side projects that are in various stages of done.  I'm a big fan of strongly typed languages with strict type systems, especially Rust and Haskell. In my spare time I love running, cooking, baking, brewing, fermenting and last but not least, eating said food. I also enjoy spending time with my ungrateful ginger cat, and my very happy Mini American Shepherd.
 
 #### You can find me on...
 
